@@ -42,13 +42,6 @@ Status       Open to backend internships
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaman-V&theme=dark&hide_border=true&background=0d0d0d&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
-</div>
-
----
 
 ### Certifications
 
